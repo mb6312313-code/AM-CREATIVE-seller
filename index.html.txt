@@ -1,0 +1,197 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AM CREATIVE | Premium Subscriptions</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+<div id="particles"></div>
+
+<header>
+<div class="container">
+
+<div class="logo">
+AM CREATIVE
+</div>
+
+<nav>
+<a href="#services">Services</a>
+<a href="#reviews">Reviews</a>
+<a href="#faq">FAQ</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</div>
+</header>
+
+<section class="hero">
+
+<h1>Premium Subscriptions & Digital Services</h1>
+
+<p>
+Adobe Creative Cloud Premium • Canva Pro • ChatGPT Plus • CapCut Pro • Coursera • Udemy Courses
+</p>
+
+<div class="hero-buttons">
+
+<a href="https://wa.me/923219083663?text=Assalamualaikum%20I%20want%20details%20about%20your%20subscriptions." class="gold-btn">
+Order Now
+</a>
+
+<a href="#services" class="outline-btn">
+View Services
+</a>
+
+</div>
+
+</section>
+
+<section class="stats">
+
+<div class="stat">
+<h2>500+</h2>
+<p>Happy Clients</p>
+</div>
+
+<div class="stat">
+<h2>1000+</h2>
+<p>Orders Delivered</p>
+</div>
+
+<div class="stat">
+<h2>24/7</h2>
+<p>Support</p>
+</div>
+
+<div class="stat">
+<h2>99%</h2>
+<p>Satisfaction</p>
+</div>
+
+</section>
+
+<section id="services" class="services">
+
+<h2>Our Services</h2>
+
+<div class="service-grid">
+
+<a class="card" href="https://wa.me/923219083663?text=Assalamualaikum,%20I%20want%20Adobe%20Creative%20Cloud%20Premium%20Subscription.">
+<h3>Adobe Creative Cloud Premium</h3>
+<p>All Months Available</p>
+</a>
+
+<a class="card" href="https://wa.me/923219083663?text=Assalamualaikum,%20I%20want%20Canva%20Pro.">
+<h3>Canva Pro</h3>
+<p>Premium Access</p>
+</a>
+
+<a class="card" href="https://wa.me/923219083663?text=Assalamualaikum,%20I%20want%20ChatGPT%20Plus.">
+<h3>ChatGPT Plus</h3>
+<p>1 Month</p>
+</a>
+
+<a class="card" href="https://wa.me/923219083663?text=Assalamualaikum,%20I%20want%20CapCut%20Pro.">
+<h3>CapCut Pro</h3>
+<p>1 Month</p>
+</a>
+
+<a class="card" href="https://wa.me/923219083663?text=Assalamualaikum,%20I%20want%20Coursera%20Subscription.">
+<h3>Coursera</h3>
+<p>Yearly Access</p>
+</a>
+
+<a class="card" href="https://wa.me/923219083663?text=Assalamualaikum,%20I%20want%20Udemy%20Courses.">
+<h3>Udemy Courses</h3>
+<p>Available</p>
+</a>
+
+</div>
+
+</section>
+
+<section class="payment">
+
+<h2>Payment Methods</h2>
+
+<div class="payment-box">
+<span>JazzCash</span>
+<span>Easypaisa</span>
+</div>
+
+</section>
+
+<section id="reviews" class="reviews">
+
+<h2>Customer Reviews</h2>
+
+<div class="review-slider">
+
+<div class="review active">
+⭐⭐⭐⭐⭐ Amazing Service & Fast Delivery
+</div>
+
+<div class="review">
+⭐⭐⭐⭐⭐ Highly Recommended Seller
+</div>
+
+<div class="review">
+⭐⭐⭐⭐⭐ Best Premium Subscriptions
+</div>
+
+</div>
+
+</section>
+
+<section id="faq" class="faq">
+
+<h2>Frequently Asked Questions</h2>
+
+<div class="faq-item">
+<h3>How long does delivery take?</h3>
+<p>Usually within a few minutes.</p>
+</div>
+
+<div class="faq-item">
+<h3>Which payment methods are accepted?</h3>
+<p>JazzCash & Easypaisa.</p>
+</div>
+
+<div class="faq-item">
+<h3>Do you provide support?</h3>
+<p>Yes, 24/7 support available.</p>
+</div>
+
+</section>
+
+<section id="contact" class="contact">
+
+<h2>Contact Us</h2>
+
+<a href="https://wa.me/923219083663" class="gold-btn">
+WhatsApp Now
+</a>
+
+</section>
+
+<footer>
+
+<p>© 2026 AM CREATIVE | All Rights Reserved</p>
+
+</footer>
+
+<div id="popup"></div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
+```
