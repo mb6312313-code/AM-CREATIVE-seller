@@ -1,0 +1,344 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AM CREATIVE | Premium Subscriptions</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+
+</head>
+<body>
+
+<!-- Loader -->
+<div id="loader">
+<div class="loader-ring"></div>
+</div>
+
+<!-- Particles -->
+<div id="particles"></div>
+
+<!-- Scroll Top -->
+<button id="topBtn">
+<i class="fa-solid fa-arrow-up"></i>
+</button>
+
+<!-- WhatsApp Floating -->
+<a href="https://wa.me/923219083663" class="whatsapp-float">
+<i class="fa-brands fa-whatsapp"></i>
+</a>
+
+<header>
+
+<div class="container">
+
+<div class="logo">
+<i class="fa-solid fa-crown"></i>
+AM CREATIVE
+</div>
+
+<nav>
+<a href="#services">Services</a>
+<a href="#reviews">Reviews</a>
+<a href="#faq">FAQ</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</div>
+
+</header>
+
+
+<section class="hero">
+
+<span class="badge">
+<i class="fa-solid fa-shield"></i>
+Trusted Seller
+</span>
+
+<h1>
+Premium Subscriptions &
+Digital Services
+</h1>
+
+<p>
+Adobe Creative Cloud Premium • Canva Pro • ChatGPT Plus • CapCut Pro • Coursera • Udemy Courses
+</p>
+
+<div class="hero-buttons">
+
+<a href="https://wa.me/923219083663?text=Assalamualaikum%20I%20want%20details%20about%20your%20subscriptions." class="gold-btn">
+<i class="fa-brands fa-whatsapp"></i>
+Order Now
+</a>
+
+<a href="#services" class="outline-btn">
+<i class="fa-solid fa-layer-group"></i>
+View Services
+</a>
+
+</div>
+
+</section>
+
+
+
+<section class="stats">
+
+<div class="stat">
+<h2 class="counter" data-target="500">0</h2>
+<p>Happy Clients</p>
+</div>
+
+<div class="stat">
+<h2 class="counter" data-target="1000">0</h2>
+<p>Orders Delivered</p>
+</div>
+
+<div class="stat">
+<h2>24/7</h2>
+<p>Support</p>
+</div>
+
+<div class="stat">
+<h2 class="counter" data-target="99">0</h2>
+<p>Satisfaction</p>
+</div>
+
+</section>
+
+
+
+<section id="services" class="services">
+
+<h2 class="title">
+Our Services
+</h2>
+
+<div class="service-grid">
+
+
+<a class="card"
+href="https://wa.me/923219083663?text=I want Adobe Creative Cloud Premium">
+
+<i class="fa-brands fa-adobe"></i>
+
+<h3>Adobe Creative Cloud Premium</h3>
+
+<p>All Months Available</p>
+
+</a>
+
+
+<a class="card"
+href="https://wa.me/923219083663?text=I want Canva Pro">
+
+<i class="fa-solid fa-palette"></i>
+
+<h3>Canva Pro</h3>
+
+<p>Premium Access</p>
+
+</a>
+
+
+<a class="card"
+href="https://wa.me/923219083663?text=I want ChatGPT Plus">
+
+<i class="fa-solid fa-robot"></i>
+
+<h3>ChatGPT Plus</h3>
+
+<p>1 Month Available</p>
+
+</a>
+
+
+<a class="card"
+href="https://wa.me/923219083663?text=I want CapCut Pro">
+
+<i class="fa-solid fa-video"></i>
+
+<h3>CapCut Pro</h3>
+
+<p>1 Month Available</p>
+
+</a>
+
+
+<a class="card"
+href="https://wa.me/923219083663?text=I want Coursera">
+
+<i class="fa-solid fa-graduation-cap"></i>
+
+<h3>Coursera</h3>
+
+<p>Yearly Access</p>
+
+</a>
+
+
+<a class="card"
+href="https://wa.me/923219083663?text=I want Udemy Courses">
+
+<i class="fa-solid fa-book"></i>
+
+<h3>Udemy Courses</h3>
+
+<p>Available</p>
+
+</a>
+
+</div>
+
+</section>
+
+
+
+<section class="payment">
+
+<h2 class="title">
+Payment Methods
+</h2>
+
+<div class="payment-box">
+
+<span>
+<i class="fa-solid fa-wallet"></i>
+JazzCash
+</span>
+
+<span>
+<i class="fa-solid fa-money-bill-wave"></i>
+Easypaisa
+</span>
+
+</div>
+
+</section>
+
+
+
+<section id="reviews" class="reviews">
+
+<h2 class="title">
+Customer Reviews
+</h2>
+
+<div class="review-slider">
+
+<div class="review active">
+⭐⭐⭐⭐⭐ Amazing Service & Fast Delivery
+</div>
+
+<div class="review">
+⭐⭐⭐⭐⭐ Highly Recommended Seller
+</div>
+
+<div class="review">
+⭐⭐⭐⭐⭐ Best Premium Subscriptions
+</div>
+
+</div>
+
+</section>
+
+
+
+<section id="faq" class="faq">
+
+<h2 class="title">
+Frequently Asked Questions
+</h2>
+
+<div class="faq-item">
+
+<h3>
+How long does delivery take?
+</h3>
+
+<p>
+Usually within a few minutes.
+</p>
+
+</div>
+
+
+<div class="faq-item">
+
+<h3>
+Which payment methods are accepted?
+</h3>
+
+<p>
+JazzCash & Easypaisa.
+</p>
+
+</div>
+
+
+<div class="faq-item">
+
+<h3>
+Do you provide support?
+</h3>
+
+<p>
+Yes, 24/7 support available.
+</p>
+
+</div>
+
+</section>
+
+
+
+<section id="contact" class="contact">
+
+<h2 class="title">
+Contact Us
+</h2>
+
+<a href="https://wa.me/923219083663" class="gold-btn">
+<i class="fa-brands fa-whatsapp"></i>
+WhatsApp Now
+</a>
+
+</section>
+
+
+
+<footer>
+
+<div class="socials">
+
+<a href="#">
+<i class="fa-brands fa-facebook"></i>
+</a>
+
+<a href="#">
+<i class="fa-brands fa-instagram"></i>
+</a>
+
+<a href="#">
+<i class="fa-brands fa-youtube"></i>
+</a>
+
+</div>
+
+<p>
+© 2026 AM CREATIVE | All Rights Reserved
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
+```
